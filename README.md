@@ -1,6 +1,6 @@
 # Automatic baby craddle with Arduino
 
-Inspired by JamesKnopfSelbst and his Youtube video https://www.youtube.com/watch?v=ktmIXVn6ftc
+Inspired by JamesKnopfSelbst and his Youtube video: ["Automatische Kinderwiege"](https://www.youtube.com/watch?v=ktmIXVn6ftc)
 
 ## Overview
 
