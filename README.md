@@ -2,6 +2,11 @@
 
 Inspired by JamesKnopfSelbst and his Youtube video https://www.youtube.com/watch?v=ktmIXVn6ftc
 
+## Overview
+
+[CraddleControl.ino] contains the Arduino source code.
+[Wiege_CAD_Model.FCStd] contains the FreeCAD 3D sketch of the craddle
+
 All files are licensed under the MIT license.
 
 ## The MIT License (MIT)
