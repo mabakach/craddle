@@ -7,6 +7,10 @@ Inspired by JamesKnopfSelbst and his Youtube video: ["Automatische Kinderwiege"]
 * [CraddleControl/CraddleControl.ino](CraddleControl/CraddleControl.ino) contains the Arduino source code.
 * [FreeCADModel/Wiege_CAD_Model.FCStd](FreeCADModel/Wiege_CAD_Model.FCStd) contains the FreeCAD 3D sketch of the craddle.
 
+![Craddle from side](/Pictures/Final.jpg)
+
+## License
+
 All files are licensed under the MIT license.
 
 ## The MIT License (MIT)
